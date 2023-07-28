@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Sidcre/NFT-preview-card-component/tree/main/nft-preview-card-component-main
+- Live Site URL: https://nft-preview-card-component-uaxm-sidcre.vercel.app/
 
 ## My process
 
@@ -71,7 +71,7 @@ https://www.joshwcomeau.com/css/custom-css-reset/#the-css-reset-1 - This include
 
 ## Author
 
-- Website - [SID](https://www.your-site.com)
+- Website - [NFT-Card-Component](https://nft-preview-card-component-uaxm-sidcre.vercel.app/)
 - Frontend Mentor - [@SidCre](https://www.frontendmentor.io/profile/Sidcre)
 - Twitter - [@SidCre](https://twitter.com/Siddhant315232)
 
